@@ -91,3 +91,33 @@ Observations:
 
 (Total weight of 1 day’s garbage x days the office is open) / Number of staff = kg/person/year
 
+## Recycling Audit Worksheet
+
+### Weight of Recycling
+
+|               | Example |  Bag 1  |  Bag 2  |  Bag 3  |  Bag 4  |  Bag 5  |  Bag 6  | 
+| ------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Weight of bag |  7.3kg  |         |         |         |         |         |         |
+
+
+### Visual Audit
+
+
+|                       | Example |  Bag 1  |  Bag 2  |  Bag 3  |  Bag 4  |  Bag 5  |  Bag 6  | 
+| --------------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Recyclable Containers |   10%   |         |         |         |         |         |         |
+| Recyclable Paper      |   20%   |         |         |         |         |         |         |
+| Other Recyclables     |   40%   |         |         |         |         |         |         |
+| Food Waste/organics   |   10%   |         |         |         |         |         |         |
+| garbage               |   10%   |         |         |         |         |         |         |
+
+Observations: 
+
+(Total weight of 1 day’s garbage x days the office is open) / Number of staff = kg/person/year
+
+## Calculate Diversion Rate
+Waste diversion rate: The rate or percentage of recyclable material that has been diverted out of the waste disposal stream and therefore not put into landfills.
+
+Total weight of 1 day’s garbage + Total weight of 1 day’s recycling = Total kg of waste
+
+(Total weight of 1 day’s recycling) / (Total kg)
