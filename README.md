@@ -67,3 +67,27 @@ Repeat the Visual Garbage Audit instructions using all the recycling collected o
 ## What’s Important?
 Reduction! Doing a waste audit can help identify what your team can target to reduce its overall waste. Finding out what contaminates your recycling stream can also help to improve the efficiency and effectiveness of your recycling efforts.
 
+## Garbage Audit Worksheet
+
+### Weight of Garbage
+
+|               | Example |  Bag 1  |  Bag 2  |  Bag 3  |  Bag 4  |  Bag 5  |  Bag 6  | 
+| ------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Weight of bag |  7.3kg  |         |         |         |         |         |         |
+
+
+### Visual Audit
+
+
+|                       | Example |  Bag 1  |  Bag 2  |  Bag 3  |  Bag 4  |  Bag 5  |  Bag 6  | 
+| --------------------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| Recyclable Containers |   10%   |         |         |         |         |         |         |
+| Recyclable Paper      |   20%   |         |         |         |         |         |         |
+| Other Recyclables     |   40%   |         |         |         |         |         |         |
+| Food Waste/organics   |   10%   |         |         |         |         |         |         |
+| garbage               |   10%   |         |         |         |         |         |         |
+
+Observations: 
+
+(Total weight of 1 day’s garbage x days the office is open) / Number of staff = kg/person/year
+
