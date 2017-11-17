@@ -121,3 +121,22 @@ Waste diversion rate: The rate or percentage of recyclable material that has bee
 Total weight of 1 day’s garbage + Total weight of 1 day’s recycling = Total kg of waste
 
 (Total weight of 1 day’s recycling) / (Total kg)
+
+## Target
+List a target that your organization would like to achieve to minimize waste.
+ 
+ 
+## Actions / Timeline
+What steps will your EcoTeam take to achieve your target? When will the phases of your action plan be implemented?
+ 
+ 
+## Indicators
+How will your EcoTeam know that its target has been met? (counting participants, collecting feedback, research, etc.)
+ 
+ 
+## Resources / Responsibilities
+What resources does your EcoTeam need to achieve your target? (people, materials, funding, etc.) Who will be responsible for different phases of the action plan?
+ 
+ 
+## Analysis / Results (to be  lled out near the end of the year)
+Analyze the data you collected over the year. Did you achieve your target this year? Why or why not? How will these results impact your future campaigns?
